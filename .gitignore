@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.csv
+*.xlsx
+*.json
+*.log
+*.pkl
+*.sqlite
+.env
+venv/
+
